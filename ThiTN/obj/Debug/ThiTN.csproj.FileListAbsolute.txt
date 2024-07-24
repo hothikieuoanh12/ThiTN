@@ -1,0 +1,40 @@
+D:\Đồ án NET\ThiTN\ThiTN\bin\Debug\ThiTN.exe.config
+D:\Đồ án NET\ThiTN\ThiTN\bin\Debug\ThiTN.exe
+D:\Đồ án NET\ThiTN\ThiTN\bin\Debug\ThiTN.pdb
+D:\Đồ án NET\ThiTN\ThiTN\obj\Debug\ThiTN.Properties.Resources.resources
+D:\Đồ án NET\ThiTN\ThiTN\obj\Debug\ThiTN.csproj.GenerateResource.Cache
+D:\Đồ án NET\ThiTN\ThiTN\obj\Debug\ThiTN.exe
+D:\Đồ án NET\ThiTN\ThiTN\obj\Debug\ThiTN.pdb
+D:\Đồ án NET\ThiTN\ThiTN\obj\Debug\ThiTN.TrangChu.resources
+D:\Đồ án NET\ThiTN\ThiTN\obj\Debug\ThiTN.DeThi.resources
+D:\Đồ án NET\ThiTN\ThiTN\obj\Debug\ThiTN.QuestionManager.resources
+D:\Đồ án NET\ThiTN\ThiTN\obj\Debug\ThiTN.SubjectManager.resources
+D:\Đồ án NET\ThiTN\ThiTN\obj\Debug\ThiTN.StudentManager_.resources
+D:\Đồ án NET\ThiTN\ThiTN\obj\Debug\ThiTN.Exam.resources
+D:\Đồ án NET\ThiTN\ThiTN\obj\Debug\ThiTN.ImportExcel.resources
+D:\Đồ án NET\ThiTN\ThiTN\obj\Debug\ThiTN.DangNhap.resources
+D:\Đồ án NET\ThiTN\ThiTN\obj\Debug\ThiTN.DanhSachThi.resources
+D:\Đồ án NET\ThiTN\ThiTN\obj\Debug\ThiTN.LichThi.resources
+D:\Đồ án NET\ThiTN\ThiTN\obj\Debug\ThiTN.ThongTin.resources
+D:\Đồ án NET\ThiTN\ThiTN\obj\Debug\ThiTN.KetQuaThi.resources
+D:\Đồ án NET\ThiTN\ThiTN\obj\Debug\ThiTN.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ThiTN\ThiTN\bin\Debug\ThiTN.exe.config
+C:\Users\Administrator\Desktop\ThiTN\ThiTN\obj\Debug\ThiTN.exe
+C:\Users\Administrator\Desktop\ThiTN\ThiTN\obj\Debug\ThiTN.pdb
+C:\Users\Administrator\Desktop\ThiTN\ThiTN\bin\Debug\ThiTN.exe
+C:\Users\Administrator\Desktop\ThiTN\ThiTN\bin\Debug\ThiTN.pdb
+C:\Users\Administrator\Desktop\ThiTN\ThiTN\obj\Debug\ThiTN.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ThiTN\ThiTN\obj\Debug\ThiTN.DanhSachThi.resources
+C:\Users\Administrator\Desktop\ThiTN\ThiTN\obj\Debug\ThiTN.ImportExcel.resources
+C:\Users\Administrator\Desktop\ThiTN\ThiTN\obj\Debug\ThiTN.KetQuaThi.resources
+C:\Users\Administrator\Desktop\ThiTN\ThiTN\obj\Debug\ThiTN.LichThi.resources
+C:\Users\Administrator\Desktop\ThiTN\ThiTN\obj\Debug\ThiTN.QuestionManager.resources
+C:\Users\Administrator\Desktop\ThiTN\ThiTN\obj\Debug\ThiTN.DeThi.resources
+C:\Users\Administrator\Desktop\ThiTN\ThiTN\obj\Debug\ThiTN.DangNhap.resources
+C:\Users\Administrator\Desktop\ThiTN\ThiTN\obj\Debug\ThiTN.Exam.resources
+C:\Users\Administrator\Desktop\ThiTN\ThiTN\obj\Debug\ThiTN.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ThiTN\ThiTN\obj\Debug\ThiTN.StudentManager_.resources
+C:\Users\Administrator\Desktop\ThiTN\ThiTN\obj\Debug\ThiTN.SubjectManager.resources
+C:\Users\Administrator\Desktop\ThiTN\ThiTN\obj\Debug\ThiTN.ThongTin.resources
+C:\Users\Administrator\Desktop\ThiTN\ThiTN\obj\Debug\ThiTN.TrangChu.resources
+C:\Users\Administrator\Desktop\ThiTN\ThiTN\obj\Debug\ThiTN.csproj.GenerateResource.Cache
